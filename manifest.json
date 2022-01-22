@@ -1,0 +1,9 @@
+{
+    "name": "DSPHideEverything",
+    "version_number": "0.1.1",
+    "website_url": "",
+    "description": "This allows you to hide various things and improve FPS.This don't affect achievements or milestones.　いろいろな物を非表示にして、FPSを向上させることができます。実績やマイルストーンには影響しません。",
+    "dependencies": [
+    "xiaoye97-BepInEx-5.4.17"
+    ]
+}
